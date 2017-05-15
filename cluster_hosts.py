@@ -1,13 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-　
-"""
-Nom       : cl_hosts.py
-Role      : Affiche les hosts SGE dans un format plus lisible et synthÃ©tique que qhost
-Auteur    : FrÃ©dÃ©ric Parance
-Version   : v1.0 du 28/04/2016
-"""
-　
+
 import xml.etree.ElementTree as ET
 import json
 import time
