@@ -5,7 +5,7 @@
     nom         : tm_check_rlm.py
     version     : v0.1
     description : sonde "nagios" qui vérifie le status d'un demon RLM
-    auteur      : Frédéric Parance
+    auteur      : 
 """
 
 from tm_commonstuff import *
