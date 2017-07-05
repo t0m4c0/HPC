@@ -5,7 +5,7 @@
     nom         : tm_check_sge_jobs.py
     version     : v0.1
     description : sonde "nagios" qui check les jobs en anomalie 
-    auteur      : Frédéric Parance
+    auteur      : 
 """
 
 from tm_commonstuff import *
