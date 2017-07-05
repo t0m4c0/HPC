@@ -7,7 +7,7 @@ from tm_commonstuff import *
     nom         : check_jobs.py
     version     : v0.1
     description : sonde "nagios" qui identifie des process utilisateurs hors job SGE (ie process qui trainent...)
-    auteur      : Frédéric Parance
+    auteur      : 
 """
 
 import nis
