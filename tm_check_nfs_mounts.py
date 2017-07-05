@@ -5,7 +5,7 @@
     nom         : tm_check_nfs_mounts.py
     version     : v0.1
     description : sonde "nagios" qui compare le nombre de montages nfs entre /etc/fstab et /proc/mounts
-    auteur      : Frédéric Parance
+    auteur      : 
 """
 
 from tm_commonstuff import *
